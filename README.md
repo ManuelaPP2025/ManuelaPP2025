@@ -5,7 +5,7 @@
 
 🏢 Meu Repositório Pessoal  
 Atualmente estudo Análise e Desenvolvimento de Sistemas (ADS) na Fatec e sou Técnica em Desenvolvimento de Sistemas formada pela Etec.  
-Aqui compartilho meus aprendizados, projetos e ideias — bem-vindo(a) ao meu mundo da tecnologia! 💻✨  
+Aqui compartilho meus aprendizados, projetos e ideias — bem-vindo(a) ao meu mundo da tecnologia! 💻✨ 
 
 E, claro, como todo bom programador: Hello, world! 😄  
 
