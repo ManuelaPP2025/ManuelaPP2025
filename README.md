@@ -9,6 +9,11 @@ Aqui compartilho meus aprendizados, projetos e ideias — bem-vindo(a) ao meu mu
 
 E, claro, como todo bom programador: Hello, world! 😄  
 
+## Meus Projetos Mais Recentes:
+
+Acesse nosso site e conheça mais sobre nosso trabalho:  
+👉 https://safetyseguranca.netlify.app
+
 ---
 
 ### 🔗 Redes Sociais
